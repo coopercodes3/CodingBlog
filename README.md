@@ -2,7 +2,7 @@
 
 Welcome to my developer blog template! 🚀
 
-This repository serves as a starting point for creating your own developer blog using [GitHub Pages](https://pages.github.com/) and [Hugo PaperMod](https://github.com/adityatelange/hugo-PaperMod/).
+This repository serves as a starting point for creating your own developer blog using [GitHub Pages](https://pages.github.com/) and [Hugo PaperMod](https://github.com/adityatelange/hugo-PaperMod/). 
 
 ## Features
 
